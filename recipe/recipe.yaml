@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/sanic/sanic-${{ version }}.tar.gz
-  sha256: ec124338f83a781da8095ed2676e60eb40c7fe21e7aa649a879f8860b4c7bd7a
+  sha256: 7b51bf608e4030f06a6c002cd08fed2872e4936527e63c9a8a97d5cd06a2b47f
 
 build:
   number: 1
